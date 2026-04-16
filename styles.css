@@ -22,11 +22,11 @@ h1 {
 .main-styles {
     background-color: #f5f5f5;
     padding: 24px;
-    height: 600px;
+    height:400px;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 21px;
     color: #2E4057;
 }
 
@@ -36,12 +36,12 @@ p {
 }
 
 img {
-    width: 800px;
+    width: 50%px;
     display: block;
     margin-bottom: 16px;
 }
 
 .list-styles {
-    font-size: 16px;
+    font-size: 50px;
     color: #555;
 }
